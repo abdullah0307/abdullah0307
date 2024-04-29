@@ -1,4 +1,4 @@
-![Muhammad Abdullah Javaid](https://github.com/abdullah0307/abdullah0307/assets/44797454/21900d6b-a08e-41df-b53c-da7836d43317)
+## Muhammad Abdullah Javaid
 
 
 ---
