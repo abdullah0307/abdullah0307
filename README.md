@@ -45,4 +45,5 @@ I've contributed to the academic sphere with publications like:
 
 Feel free to explore my repositories and connect for collaborations!
 
-![Let's Code!](abdullahjavaid0307@gmail.com)
+Let's Code!
+abdullahjavaid0307@gmail.com
