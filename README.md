@@ -45,4 +45,4 @@ I've contributed to the academic sphere with publications like:
 
 Feel free to explore my repositories and connect for collaborations!
 
-![Let's Code!](link_to_coding_gif)
+![Let's Code!](abdullahjavaid0307@gmail.com)
