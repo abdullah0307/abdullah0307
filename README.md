@@ -36,6 +36,7 @@ I've had the privilege to work on a diverse range of projects, including:
 ### Leadership Activities
 - **I.T Society GCS, Lahore**: Active member contributing to tech initiatives.
 - **Group Leader for FYP Project**: Guided a team towards project success.
+- **Mentoring a Team of AI & ML Experts**
 
 ### Paper Publications
 I've contributed to the academic sphere with publications like:
