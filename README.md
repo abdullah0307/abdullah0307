@@ -1,5 +1,6 @@
 ## Muhammad Abdullah Javaid
 
+![GITHUB BANNER](https://github.com/user-attachments/assets/c9d7c328-3f7f-4918-8741-ee4d58922607)
 
 ---
 
