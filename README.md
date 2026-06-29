@@ -1,51 +1,57 @@
-## Muhammad Abdullah Javaid
+# Muhammad Abdullah Javaid
 
-![GITHUB BANNER](https://github.com/user-attachments/assets/c9d7c328-3f7f-4918-8741-ee4d58922607)
+Computer Vision and Machine Learning Engineer building real-time AI systems, recognition pipelines, and portfolio-ready demos.
 
----
+![Profile banner](https://github.com/user-attachments/assets/c9d7c328-3f7f-4918-8741-ee4d58922607)
 
-### Introduction
-Hey there! I'm Muhammad Abdullah Javaid, a dedicated Computer Vision and Machine Learning Engineer based in Lahore. My journey in the realm of technology has been an exciting one, with a passion for leveraging Python and a myriad of frameworks to craft innovative solutions that make a difference.
+## What I work on
 
-### Technical Skills
-| Languages & Frameworks | Tools & Libraries | 
-| --- | --- |
-| - Python <br> - TensorFlow <br> - Keras <br> - PyTorch <br> - OpenCV | - PyCharm <br> - Jupyter Lab <br> - Google Colab <br> - Anaconda |
+- Computer vision systems for attendance, surveillance, detection, and tracking
+- AI-powered product demos and applied machine learning workflows
+- Clean front-end presentation for showcasing technical work
 
-### Professional Skills
-In addition to my technical prowess, I bring to the table a host of professional skills:
-- **Team Player**: Collaborative spirit that thrives in group settings.
-- **Leadership**: Experience leading teams and projects.
-- **Communication**: Effective communication skills for seamless collaboration.
-- **Self-Motivation & Time Management**: Driven to excel with efficient time utilization.
+## Featured projects
 
-### Experience
-#### Computer Vision and Machine Learning Engineer
-- **KICS UET Lahore**
-  
-#### Android App Development
-- **KICS UET Main Campus**
+| Project | Focus | Link |
+| --- | --- | --- |
+| Portfolio website | Live portfolio for my work and case studies | [CV repo](https://github.com/abdullah0307/CV) |
+| UET AI Projects | Real-time surveillance and analytics demos | [Project repo](https://github.com/abdullah0307/UET_Survelliance_Demo) |
+| Face recognition attendance | Face recognition based attendance workflow | [Repo](https://github.com/abdullah0307/Face-Recognition-Based-Attendance-System-master) |
+| Hand gesture recognition | Vision-based gesture detection project | [Repo](https://github.com/abdullah0307/hand-gesture-recognition-project) |
+| Face embeddings | Face recognition using embeddings | [Repo](https://github.com/abdullah0307/Face-Recognition-using-Face-Embeddings) |
+| Object tracking | Tracking and motion analysis experiments | [Repo](https://github.com/abdullah0307/Object_tracking) |
 
-### Professional Projects
-I've had the privilege to work on a diverse range of projects, including:
-- Face detection and recognition System
-- Motion Detection System
-- Edge detection System
-- Attendance System using face Recognition
-- ... and many more!
+## Core stack
 
-### Leadership Activities
-- **I.T Society GCS, Lahore**: Active member contributing to tech initiatives.
-- **Group Leader for FYP Project**: Guided a team towards project success.
-- **Mentoring a Team of AI & ML Experts**
+```text
+Python
+OpenCV
+TensorFlow
+PyTorch
+Keras
+scikit-learn
+NumPy
+Pandas
+Matplotlib
+LangChain
+LangGraph
+OpenAI Agents SDK
+```
 
-### Paper Publications
-I've contributed to the academic sphere with publications like:
-- An Embedded Solution of Gaze Estimation for Driver Assistance using Computer Vision (2021 International Conference on Innovative Computing)
+## Current profile upgrades
 
----
+- Turning older notebooks into cleaner showcase repos
+- Adding screenshots and GIFs so projects are easier to scan
+- Keeping the profile focused on computer vision first
+- Linking live demos and polished portfolio pages
 
-Feel free to explore my repositories and connect for collaborations!
+## About me
 
-Let's Code!
-abdullahjavaid0307@gmail.com
+I build practical AI systems with a focus on computer vision and machine learning. I like projects that do something useful in the real world, especially when they can be presented clearly and feel polished end to end.
+
+## Contact
+
+- Email: abdullahjavaid0307@gmail.com
+- GitHub: [@abdullah0307](https://github.com/abdullah0307)
+- LinkedIn: [Muhammad Abdullah Javaid](https://www.linkedin.com/in/muhammad-abdullah-javaid-13a458158/)
+
